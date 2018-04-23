@@ -1,0 +1,10 @@
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\bin\Release\AuctionDailyCheck.exe.config
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\bin\Release\AuctionDailyCheck.exe
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\bin\Release\AuctionDailyCheck.pdb
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\bin\Release\WebDriver.dll
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\bin\Release\WebDriver.Support.dll
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\bin\Release\WebDriver.xml
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\bin\Release\WebDriver.Support.xml
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\obj\Release\AuctionDailyCheck.exe
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\obj\Release\AuctionDailyCheck.pdb
+C:\Source\AuctionDailyCheck\AuctionDailyCheck\obj\Release\AuctionDailyCheck.csprojResolveAssemblyReference.cache
